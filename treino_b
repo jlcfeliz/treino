@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercícios de Musculação</title>
+</head>
+<body>
+    <h1>Treino da Lindeza</h1>
+    
+    <div>
+        <h2>Treino A: Supino reto com barra</h2>
+        <img src="Supino reto.gif" alt="GIF do Exercício 2" style="width: 100%; height: auto;" loop=infinite>
+    </div>
+
+     <div>
+        <h2>Treino A: Supino inclinado com halteres</h2>
+        <img src="Supino inclinado com halteres.gif" alt="GIF do Exercício 1" style="width: 100%; height: auto;" loop=infinite>
+    </div>
+
+    <div>
+        <h2>Treino A: Crucifixo com halteres</h2>
+        <img src="Crucifixo com halteres.gif" alt="GIF do Exercício 1" style="width: 100%; height: auto;" loop=infinite>
+    </div>
+
+    <div>
+        <h2>Treino A: Pack deck</h2>
+        <img src="Pack deck.gif" alt="GIF do Exercício 1" style="width: 100%; height: auto;" loop=infinite>
+    </div>
+
+    <div>
+        <h2>Treino A: Triceps testa com halteres</h2>
+        <img src="Triceps testa com halteres.gif" alt="GIF do Exercício 1" style="width: 100%; height: auto;" loop=infinite>
+    </div>
+
+    <div>
+        <h2>Treino A: Triceps cross barra reta</h2>
+        <img src="Triceps cross barra reta.gif" alt="GIF do Exercício 1" style="width: 100%; height: auto;" loop=infinite>
+    </div>
+
+    <div>
+        <h2>Treino A: Triceps francês na polia ou pode ser feito com halteres</h2>
+        <img src="Triceps francês na polia ou pode ser feito com halteres.gif" alt="GIF do Exercício 1" style="width: 100%; height: auto;" loop=infinite>
+    </div>
+</body>
+</html>
